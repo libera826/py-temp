@@ -1,5 +1,5 @@
 # py temp (cpu)
-PYthon Script for CPU Temperature monitoring
+PYthon Script for CPU Temperature Monitoring
 
 # Installation
 
